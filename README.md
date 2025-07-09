@@ -38,11 +38,6 @@ Pull requests are welcome! For major changes, please open an issue first.
 
 ---
 
-## 📄 License
-[MIT](LICENSE)
-
----
-
 <div align="center" style="margin-top:2rem; color:#b0b0b4; font-style:italic;">
   Made with <span style="color:#ff2d55;">&#10084;</span> by Gowtham
 </div>
