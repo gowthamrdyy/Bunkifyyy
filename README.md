@@ -2,10 +2,6 @@
 
 > **Minimal. Elegant. Unique.**
 
----
-
-![Bunkifyyy Logo](./assets/logo1.png)
-
 ## About
 
 **Bunkifyyy** is a beautifully simple attendance calculator for students, now with a unique look, smooth animations, and extra Gowtham branding. Instantly find out how many classes you can bunk or need to attend to maintain your target attendance percentage.
@@ -17,26 +13,20 @@
 - **Smooth Animations:** Subtle transitions and fade-ins for a delightful experience
 - **Responsive:** Works perfectly on mobile and desktop
 - **Customizable Target:** Adjust your attendance goal with a slider
-- **Open Source:** [View on GitHub](https://github.com/sayeedmunees/bunkscape-attendance)
+- **Open Source:** [View on GitHub]([(https://github.com/gowthamrdyy/Bunkifyyy)])
 
 ---
 
 ## 🚀 Getting Started
 1. **Clone this repo:**
    ```bash
-   git clone https://github.com/sayeedmunees/bunkscape-attendance.git
+   git clone [https://github.com/gowthamrdyy/Bunkifyyy]
    ```
 2. **Open `index.html` in your browser.**
 
 No build steps. No dependencies. Just pure HTML, CSS, and JS.
 
 ---
-
-## 🖥️ Preview
-![screenshot](https://user-images.githubusercontent.com/your-screenshot.png)
-
----
-
 ## 🛠️ Customization
 - Change the logo in `assets/logo1.png` for your own branding.
 - Tweak colors and fonts in `style.css` for a different vibe.
